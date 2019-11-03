@@ -1,0 +1,5 @@
+{
+  "./dist/vendor.js": "vendor.js",
+  "./dist/main.js": "main.js",
+  "./dist/manifest.js": "manifest.js"
+}
