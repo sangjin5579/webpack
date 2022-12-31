@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "jquery": "^3.4.1",
-    "webpack": "^3.6.0"
+    "webpack": "^5.75.0"
   }
 }
