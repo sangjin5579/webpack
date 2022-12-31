@@ -14,7 +14,7 @@
     "moment": "^2.24.0"
   },
   "devDependencies": {
-    "webpack": "^3.6.0",
+    "webpack": "^5.75.0",
     "webpack-manifest-plugin": "^2.2.0"
   }
 }
